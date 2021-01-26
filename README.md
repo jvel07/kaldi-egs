@@ -1,7 +1,7 @@
 # kaldi-egs
 This repo contains customized Kaldi recipes intended for training DNN feature extractors.
 Each recipe has its own dataset. Some of the datasets are open-sourced, while others like the Dementia or Alzheimer's corpora are not.
-They can be requested for use, tho. Just drop me a message.
+They can be requested for use though. Just drop me a message.
 This repo also contains a recipe for doing word and phone level forced-alignments using the Tedlium-v3 corpus.
 
 Datasets employed:
